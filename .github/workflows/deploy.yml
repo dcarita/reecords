@@ -29,10 +29,11 @@ jobs:
 
       - run: pnpm install --frozen-lockfile
 
+      # Builds straight from the JSON already committed under src/lib/data/ — no
+      # network calls to Wikidata/Billboard/Spotify happen here. Fetching (and, in
+      # future, Spotify enrichment) is a deliberate local step (`pnpm fetch:data`)
+      # whose output you commit, not something CI redoes on every deploy.
       - run: pnpm build
-        env:
-          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
-          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
 
       - uses: actions/configure-pages@v6
 

@@ -15,8 +15,7 @@
 		"format": "prettier --write .",
 		"fetch:onthisday": "tsx scripts/fetch-onthisday.ts",
 		"fetch:billboard": "tsx scripts/fetch-billboard.ts",
-		"fetch:data": "pnpm fetch:onthisday && pnpm fetch:billboard",
-		"prebuild": "pnpm fetch:data"
+		"fetch:data": "pnpm fetch:onthisday && pnpm fetch:billboard"
 	},
 	"devDependencies": {
 		"@eslint/js": "^10.0.1",
