@@ -1,10 +1,19 @@
 <script lang="ts">
 	import { resolve } from '$app/paths';
+	import { pad2, splitIsoDate } from '$lib/dates';
 	import type { PageProps } from './$types';
 
 	let { data }: PageProps = $props();
 
 	const topSong = $derived(data.chart.entries.find((e) => e.this_week === 1));
+	const dayHref = $derived(
+		resolve('/day/[month]/[day]', {
+			month: pad2(data.onThisDay.month),
+			day: pad2(data.onThisDay.day)
+		})
+	);
+	const birthYear = $derived(splitIsoDate(data.date).year);
+	const yearHref = $derived(resolve('/year/[year]', { year: String(birthYear) }));
 </script>
 
 <svelte:head>
@@ -41,6 +50,7 @@
 					</p>
 				</div>
 			</div>
+			<a class="see-more" href={yearHref}>See {birthYear} in music &rarr;</a>
 		</section>
 	{/if}
 
@@ -52,6 +62,9 @@
 					<li>{musician.name} <span class="year">({musician.birthYear})</span></li>
 				{/each}
 			</ul>
+			<a class="see-more" href={dayHref}
+				>See everyone born on {data.onThisDay.month}/{data.onThisDay.day} &rarr;</a
+			>
 		</section>
 	{/if}
 
@@ -144,5 +157,16 @@
 
 	.year {
 		color: var(--color-text-muted);
+	}
+
+	.see-more {
+		display: inline-block;
+		margin-top: var(--space-4);
+		font-size: 0.875rem;
+		text-decoration: none;
+
+		&:hover {
+			color: var(--color-accent-hover);
+		}
 	}
 </style>

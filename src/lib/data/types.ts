@@ -42,3 +42,14 @@ export interface Chart {
 	chartDate: string;
 	entries: ChartEntry[];
 }
+
+export interface YearEndSong {
+	rank: number;
+	title: string;
+	artist: string;
+}
+
+export interface YearEndData {
+	year: number;
+	songs: YearEndSong[];
+}
