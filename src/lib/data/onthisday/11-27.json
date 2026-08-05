@@ -38,14 +38,14 @@
 			"wikidataId": "Q379824"
 		},
 		{
-			"name": "Parov Stelar",
-			"birthYear": 1974,
-			"wikidataId": "Q89525"
-		},
-		{
 			"name": "Myles Kennedy",
 			"birthYear": 1969,
 			"wikidataId": "Q289003"
+		},
+		{
+			"name": "Parov Stelar",
+			"birthYear": 1974,
+			"wikidataId": "Q89525"
 		},
 		{
 			"name": "Charles Koechlin",
@@ -73,14 +73,9 @@
 			"wikidataId": "Q549442"
 		},
 		{
-			"name": "Maria Schneider",
-			"birthYear": 1960,
-			"wikidataId": "Q435179"
-		},
-		{
-			"name": "Tetsuya Komuro",
-			"birthYear": 1958,
-			"wikidataId": "Q719205"
+			"name": "Gerrit Graham",
+			"birthYear": 1949,
+			"wikidataId": "Q1354875"
 		},
 		{
 			"name": "Bappi Lahiri",
@@ -88,19 +83,24 @@
 			"wikidataId": "Q3345399"
 		},
 		{
+			"name": "Maria Schneider",
+			"birthYear": 1960,
+			"wikidataId": "Q435179"
+		},
+		{
 			"name": "Twista",
 			"birthYear": 1973,
 			"wikidataId": "Q448638"
 		},
 		{
-			"name": "Gerrit Graham",
-			"birthYear": 1949,
-			"wikidataId": "Q1354875"
+			"name": "Tetsuya Komuro",
+			"birthYear": 1958,
+			"wikidataId": "Q719205"
 		},
 		{
-			"name": "Randy Brecker",
-			"birthYear": 1945,
-			"wikidataId": "Q48996"
+			"name": "Vlado Janevski",
+			"birthYear": 1960,
+			"wikidataId": "Q956678"
 		}
 	],
 	"events": []

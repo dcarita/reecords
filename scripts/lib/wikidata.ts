@@ -44,7 +44,7 @@ export async function fetchMusiciansBornOn(month: number, day: number): Promise<
 		FILTER(MONTH(?dob) = ${month} && DAY(?dob) = ${day})
 		SERVICE wikibase:label { bd:serviceParam wikibase:language "en" }
 	}
-	ORDER BY DESC(?sitelinks)
+	ORDER BY DESC(?sitelinks) ?person
 	LIMIT 20`;
 
 	const url = `${ENDPOINT}?${new URLSearchParams({ query, format: 'json' })}`;
