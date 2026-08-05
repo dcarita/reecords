@@ -1,0 +1,107 @@
+{
+	"month": 11,
+	"day": 27,
+	"musicians": [
+		{
+			"name": "Jimi Hendrix",
+			"birthYear": 1942,
+			"wikidataId": "Q5928"
+		},
+		{
+			"name": "Sanna Nielsen",
+			"birthYear": 1984,
+			"wikidataId": "Q2420983"
+		},
+		{
+			"name": "Park Chan-yeol",
+			"birthYear": 1992,
+			"wikidataId": "Q7137681"
+		},
+		{
+			"name": "Lena Belkina",
+			"birthYear": 1987,
+			"wikidataId": "Q6522077"
+		},
+		{
+			"name": "Boris Grebenshchikov",
+			"birthYear": 1953,
+			"wikidataId": "Q542101"
+		},
+		{
+			"name": "Eike Immel",
+			"birthYear": 1960,
+			"wikidataId": "Q62193"
+		},
+		{
+			"name": "Tadanobu Asano",
+			"birthYear": 1973,
+			"wikidataId": "Q379824"
+		},
+		{
+			"name": "Parov Stelar",
+			"birthYear": 1974,
+			"wikidataId": "Q89525"
+		},
+		{
+			"name": "Myles Kennedy",
+			"birthYear": 1969,
+			"wikidataId": "Q289003"
+		},
+		{
+			"name": "Charles Koechlin",
+			"birthYear": 1867,
+			"wikidataId": "Q72543"
+		},
+		{
+			"name": "Miroslav Šmajda",
+			"birthYear": 1988,
+			"wikidataId": "Q162158"
+		},
+		{
+			"name": "Josh Dubovie",
+			"birthYear": 1990,
+			"wikidataId": "Q337388"
+		},
+		{
+			"name": "Ronit Elkabetz",
+			"birthYear": 1964,
+			"wikidataId": "Q455824"
+		},
+		{
+			"name": "Helmut Lachenmann",
+			"birthYear": 1935,
+			"wikidataId": "Q549442"
+		},
+		{
+			"name": "Maria Schneider",
+			"birthYear": 1960,
+			"wikidataId": "Q435179"
+		},
+		{
+			"name": "Tetsuya Komuro",
+			"birthYear": 1958,
+			"wikidataId": "Q719205"
+		},
+		{
+			"name": "Bappi Lahiri",
+			"birthYear": 1952,
+			"wikidataId": "Q3345399"
+		},
+		{
+			"name": "Twista",
+			"birthYear": 1973,
+			"wikidataId": "Q448638"
+		},
+		{
+			"name": "Gerrit Graham",
+			"birthYear": 1949,
+			"wikidataId": "Q1354875"
+		},
+		{
+			"name": "Randy Brecker",
+			"birthYear": 1945,
+			"wikidataId": "Q48996"
+		}
+	],
+	"events": []
+}

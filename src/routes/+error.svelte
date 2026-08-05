@@ -1,12 +1,12 @@
 <script lang="ts">
 	import { page } from '$app/state';
-	import { base } from '$app/paths';
+	import { resolve } from '$app/paths';
 </script>
 
 <div class="error">
 	<h1>{page.status}</h1>
 	<p>{page.error?.message}</p>
-	<a href="{base}/">Go home</a>
+	<a href={resolve('/')}>Go home</a>
 </div>
 
 <style>
