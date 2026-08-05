@@ -9,11 +9,22 @@
 	<a href={resolve('/')}>Go home</a>
 </div>
 
-<style>
+<style lang="scss">
 	.error {
 		display: grid;
 		place-items: center;
+		gap: var(--space-3);
 		text-align: center;
-		padding: 4rem 1rem;
+		min-height: 60vh;
+		padding: var(--space-8) var(--space-4);
+	}
+
+	h1 {
+		font-size: 3rem;
+		color: var(--color-accent);
+	}
+
+	p {
+		color: var(--color-text-muted);
 	}
 </style>

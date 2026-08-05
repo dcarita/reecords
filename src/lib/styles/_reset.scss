@@ -1,0 +1,46 @@
+// A trimmed-down version of the common modern CSS reset (Andy Bell / Josh Comeau
+// style) — just the parts this project actually needs, not the full kitchen sink.
+
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+* {
+	margin: 0;
+}
+
+html {
+	-webkit-text-size-adjust: 100%;
+}
+
+body {
+	line-height: 1.5;
+	-webkit-font-smoothing: antialiased;
+}
+
+img,
+picture,
+svg {
+	display: block;
+	max-width: 100%;
+}
+
+input,
+button,
+textarea,
+select {
+	font: inherit;
+	color: inherit;
+}
+
+button {
+	cursor: pointer;
+}
+
+ul,
+ol {
+	list-style: none;
+	padding: 0;
+}
