@@ -1,3 +1,5 @@
+import type { OnThisDayEvent } from '../../src/lib/data/types.ts';
+
 const USER_AGENT =
 	'reecords-app-dev/0.1 (https://github.com/dcarita/reecords; build-time data fetch)';
 
@@ -5,11 +7,6 @@ const USER_AGENT =
 // music ones — this is a best-effort keyword filter, not a precise classifier.
 const MUSIC_KEYWORDS =
 	/\balbum\b|\bsingle\b|\bband\b|\bgrammy\b|\bbillboard\b|\bno\.?\s?1\b|\bchart(ed|s)?\b|\brecord label\b|\bmusician\b|\bsong\b|\btour\b|\bconcert\b/i;
-
-export interface OnThisDayEvent {
-	year: number;
-	text: string;
-}
 
 interface OnThisDayResponse {
 	events: { year: number; text: string }[];

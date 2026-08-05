@@ -1,5 +1,5 @@
 import path from 'node:path';
-import { POC_DATES } from './config.ts';
+import { POC_DATES } from '../src/lib/data/poc-dates.ts';
 import { fetchChartNear } from './lib/billboard.ts';
 import { writeJson } from './lib/io.ts';
 import { withRetry } from './lib/retry.ts';

@@ -1,6 +1,6 @@
 import path from 'node:path';
-import { POC_DATES } from './config.ts';
-import { monthDayKey, splitIsoDate } from './lib/dates.ts';
+import { POC_DATES } from '../src/lib/data/poc-dates.ts';
+import { monthDayKey, splitIsoDate } from '../src/lib/dates.ts';
 import { writeJson } from './lib/io.ts';
 import { withRetry } from './lib/retry.ts';
 import { fetchMusiciansBornOn } from './lib/wikidata.ts';

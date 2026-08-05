@@ -1,3 +1,5 @@
+import type { Musician } from '../../src/lib/data/types.ts';
+
 const ENDPOINT = 'https://query.wikidata.org/sparql';
 const USER_AGENT =
 	'reecords-app-dev/0.1 (https://github.com/dcarita/reecords; build-time data fetch)';
@@ -11,12 +13,6 @@ const MUSICIAN_OCCUPATIONS = [
 	'Q713200', // rapper
 	'Q753110' // songwriter
 ];
-
-export interface Musician {
-	name: string;
-	birthYear: number;
-	wikidataId: string;
-}
 
 // Shape of a single row in Wikidata's SPARQL JSON results format
 // (https://www.w3.org/TR/sparql11-results-json/) for this specific query.

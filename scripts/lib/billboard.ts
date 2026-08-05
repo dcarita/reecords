@@ -1,21 +1,7 @@
-import { nearestChartDate } from './dates.ts';
+import { nearestChartDate } from '../../src/lib/dates.ts';
+import type { Chart, ChartEntry } from '../../src/lib/data/types.ts';
 
 const REPO_RAW = 'https://raw.githubusercontent.com/mhollingshead/billboard-hot-100/main';
-
-export interface ChartEntry {
-	song: string;
-	artist: string;
-	this_week: number;
-	last_week: number | null;
-	peak_position: number;
-	weeks_on_chart: number;
-}
-
-export interface Chart {
-	requestedDate: string;
-	chartDate: string;
-	entries: ChartEntry[];
-}
 
 let validDatesCache: string[] | null = null;
 

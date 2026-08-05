@@ -1,3 +1,7 @@
+// Pure date helpers with no Node/browser-specific dependencies, so they can be
+// imported both by the build-time fetch scripts (Node, via tsx) and by SvelteKit
+// route code (browser/prerender).
+
 export function pad2(n: number): string {
 	return String(n).padStart(2, '0');
 }
@@ -21,7 +25,7 @@ export function monthDayKey(iso: string): string {
 
 /**
  * Billboard charts are published weekly, not daily, so a given DOB rarely has an
- * exact chart. Picks the valid chart date closest to (on or before) the target.
+ * exact chart. Picks the valid chart date closest to the target.
  */
 export function nearestChartDate(target: string, validDates: string[]): string {
 	const targetTime = new Date(target).getTime();
