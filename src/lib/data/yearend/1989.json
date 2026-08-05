@@ -1,0 +1,505 @@
+{
+	"year": 1989,
+	"songs": [
+		{
+			"rank": 1,
+			"title": "Look Away",
+			"artist": "Chicago"
+		},
+		{
+			"rank": 2,
+			"title": "My Prerogative",
+			"artist": "Bobby Brown"
+		},
+		{
+			"rank": 3,
+			"title": "Every Rose Has Its Thorn",
+			"artist": "Poison"
+		},
+		{
+			"rank": 4,
+			"title": "Straight Up",
+			"artist": "Paula Abdul"
+		},
+		{
+			"rank": 5,
+			"title": "Miss You Much",
+			"artist": "Janet Jackson"
+		},
+		{
+			"rank": 6,
+			"title": "Cold Hearted",
+			"artist": "Paula Abdul"
+		},
+		{
+			"rank": 7,
+			"title": "Wind Beneath My Wings",
+			"artist": "Bette Midler"
+		},
+		{
+			"rank": 8,
+			"title": "Girl You Know It's True",
+			"artist": "Milli Vanilli"
+		},
+		{
+			"rank": 9,
+			"title": "Baby, I Love Your Way/Freebird Medley",
+			"artist": "Will to Power"
+		},
+		{
+			"rank": 10,
+			"title": "Giving You the Best That I Got",
+			"artist": "Anita Baker"
+		},
+		{
+			"rank": 11,
+			"title": "Right Here Waiting",
+			"artist": "Richard Marx"
+		},
+		{
+			"rank": 12,
+			"title": "Waiting for a Star to Fall",
+			"artist": "Boy Meets Girl"
+		},
+		{
+			"rank": 13,
+			"title": "Lost in Your Eyes",
+			"artist": "Debbie Gibson"
+		},
+		{
+			"rank": 14,
+			"title": "Don't Wanna Lose You",
+			"artist": "Gloria Estefan"
+		},
+		{
+			"rank": 15,
+			"title": "Heaven",
+			"artist": "Warrant"
+		},
+		{
+			"rank": 16,
+			"title": "Girl I'm Gonna Miss You",
+			"artist": "Milli Vanilli"
+		},
+		{
+			"rank": 17,
+			"title": "The Look",
+			"artist": "Roxette"
+		},
+		{
+			"rank": 18,
+			"title": "She Drives Me Crazy",
+			"artist": "Fine Young Cannibals"
+		},
+		{
+			"rank": 19,
+			"title": "On Our Own",
+			"artist": "Bobby Brown"
+		},
+		{
+			"rank": 20,
+			"title": "Two Hearts",
+			"artist": "Phil Collins"
+		},
+		{
+			"rank": 21,
+			"title": "Blame It on the Rain",
+			"artist": "Milli Vanilli"
+		},
+		{
+			"rank": 22,
+			"title": "Listen to Your Heart",
+			"artist": "Roxette"
+		},
+		{
+			"rank": 23,
+			"title": "I'll Be There for You",
+			"artist": "Bon Jovi"
+		},
+		{
+			"rank": 24,
+			"title": "If You Don't Know Me by Now",
+			"artist": "Simply Red"
+		},
+		{
+			"rank": 25,
+			"title": "Like a Prayer",
+			"artist": "Madonna"
+		},
+		{
+			"rank": 26,
+			"title": "I'll Be Loving You (Forever)",
+			"artist": "New Kids on the Block"
+		},
+		{
+			"rank": 27,
+			"title": "How Can I Fall?",
+			"artist": "Breathe"
+		},
+		{
+			"rank": 28,
+			"title": "Baby Don't Forget My Number",
+			"artist": "Milli Vanilli"
+		},
+		{
+			"rank": 29,
+			"title": "Toy Soldiers",
+			"artist": "Martika"
+		},
+		{
+			"rank": 30,
+			"title": "Forever Your Girl",
+			"artist": "Paula Abdul"
+		},
+		{
+			"rank": 31,
+			"title": "The Living Years",
+			"artist": "Mike + The Mechanics"
+		},
+		{
+			"rank": 32,
+			"title": "Eternal Flame",
+			"artist": "The Bangles"
+		},
+		{
+			"rank": 33,
+			"title": "Wild Thing",
+			"artist": "Tone Loc"
+		},
+		{
+			"rank": 34,
+			"title": "When I See You Smile",
+			"artist": "Bad English"
+		},
+		{
+			"rank": 35,
+			"title": "If I Could Turn Back Time",
+			"artist": "Cher"
+		},
+		{
+			"rank": 36,
+			"title": "Buffalo Stance",
+			"artist": "Neneh Cherry"
+		},
+		{
+			"rank": 37,
+			"title": "When I'm with You",
+			"artist": "Sheriff"
+		},
+		{
+			"rank": 38,
+			"title": "Don't Rush Me",
+			"artist": "Taylor Dayne"
+		},
+		{
+			"rank": 39,
+			"title": "Born to Be My Baby",
+			"artist": "Bon Jovi"
+		},
+		{
+			"rank": 40,
+			"title": "Good Thing",
+			"artist": "Fine Young Cannibals"
+		},
+		{
+			"rank": 41,
+			"title": "The Lover in Me",
+			"artist": "Sheena Easton"
+		},
+		{
+			"rank": 42,
+			"title": "Bust a Move",
+			"artist": "Young MC"
+		},
+		{
+			"rank": 43,
+			"title": "Once Bitten, Twice Shy",
+			"artist": "Great White"
+		},
+		{
+			"rank": 44,
+			"title": "Batdance",
+			"artist": "Prince"
+		},
+		{
+			"rank": 45,
+			"title": "Rock On",
+			"artist": "Michael Damian"
+		},
+		{
+			"rank": 46,
+			"title": "Real Love",
+			"artist": "Jody Watley"
+		},
+		{
+			"rank": 47,
+			"title": "Love Shack",
+			"artist": "The B-52's"
+		},
+		{
+			"rank": 48,
+			"title": "Every Little Step",
+			"artist": "Bobby Brown"
+		},
+		{
+			"rank": 49,
+			"title": "Hangin' Tough",
+			"artist": "New Kids on the Block"
+		},
+		{
+			"rank": 50,
+			"title": "My Heart Can't Tell You No",
+			"artist": "Rod Stewart"
+		},
+		{
+			"rank": 51,
+			"title": "So Alive",
+			"artist": "Love and Rockets"
+		},
+		{
+			"rank": 52,
+			"title": "You Got It (The Right Stuff)",
+			"artist": "New Kids on the Block"
+		},
+		{
+			"rank": 53,
+			"title": "Armageddon It",
+			"artist": "Def Leppard"
+		},
+		{
+			"rank": 54,
+			"title": "Satisfied",
+			"artist": "Richard Marx"
+		},
+		{
+			"rank": 55,
+			"title": "Express Yourself",
+			"artist": "Madonna"
+		},
+		{
+			"rank": 56,
+			"title": "I Like It",
+			"artist": "Dino"
+		},
+		{
+			"rank": 57,
+			"title": "Soldier of Love",
+			"artist": "Donny Osmond"
+		},
+		{
+			"rank": 58,
+			"title": "Sowing the Seeds of Love",
+			"artist": "Tears for Fears"
+		},
+		{
+			"rank": 59,
+			"title": "Cherish",
+			"artist": "Madonna"
+		},
+		{
+			"rank": 60,
+			"title": "When the Children Cry",
+			"artist": "White Lion"
+		},
+		{
+			"rank": 61,
+			"title": "18 and Life",
+			"artist": "Skid Row"
+		},
+		{
+			"rank": 62,
+			"title": "I Don't Want Your Love",
+			"artist": "Duran Duran"
+		},
+		{
+			"rank": 63,
+			"title": "Second Chance",
+			"artist": ".38 Special"
+		},
+		{
+			"rank": 64,
+			"title": "The Way You Love Me",
+			"artist": "Karyn White"
+		},
+		{
+			"rank": 65,
+			"title": "Funky Cold Medina",
+			"artist": "Tone Loc"
+		},
+		{
+			"rank": 66,
+			"title": "In Your Room",
+			"artist": "The Bangles"
+		},
+		{
+			"rank": 67,
+			"title": "Miss You Like Crazy",
+			"artist": "Natalie Cole"
+		},
+		{
+			"rank": 68,
+			"title": "Lovesong",
+			"artist": "The Cure"
+		},
+		{
+			"rank": 69,
+			"title": "Secret Rendezvous",
+			"artist": "Karyn White"
+		},
+		{
+			"rank": 70,
+			"title": "Angel Eyes",
+			"artist": "The Jeff Healey Band"
+		},
+		{
+			"rank": 71,
+			"title": "Patience",
+			"artist": "Guns N' Roses"
+		},
+		{
+			"rank": 72,
+			"title": "Walk on Water",
+			"artist": "Eddie Money"
+		},
+		{
+			"rank": 73,
+			"title": "Cover Girl",
+			"artist": "New Kids on the Block"
+		},
+		{
+			"rank": 74,
+			"title": "Welcome to the Jungle",
+			"artist": "Guns N' Roses"
+		},
+		{
+			"rank": 75,
+			"title": "Shower Me With Your Love",
+			"artist": "Surface"
+		},
+		{
+			"rank": 76,
+			"title": "Stand",
+			"artist": "R.E.M."
+		},
+		{
+			"rank": 77,
+			"title": "Close My Eyes Forever",
+			"artist": "Lita Ford and Ozzy Osbourne"
+		},
+		{
+			"rank": 78,
+			"title": "All This Time",
+			"artist": "Tiffany"
+		},
+		{
+			"rank": 79,
+			"title": "After All",
+			"artist": "Cher and Peter Cetera"
+		},
+		{
+			"rank": 80,
+			"title": "Roni",
+			"artist": "Bobby Brown"
+		},
+		{
+			"rank": 81,
+			"title": "Love in an Elevator",
+			"artist": "Aerosmith"
+		},
+		{
+			"rank": 82,
+			"title": "Lay Your Hands on Me",
+			"artist": "Bon Jovi"
+		},
+		{
+			"rank": 83,
+			"title": "The Promise",
+			"artist": "When in Rome"
+		},
+		{
+			"rank": 84,
+			"title": "What I Am",
+			"artist": "Edie Brickell & New Bohemians"
+		},
+		{
+			"rank": 85,
+			"title": "I Remember Holding You",
+			"artist": "Boys Club"
+		},
+		{
+			"rank": 86,
+			"title": "Paradise City",
+			"artist": "Guns N' Roses"
+		},
+		{
+			"rank": 87,
+			"title": "I Wanna Have Some Fun",
+			"artist": "Samantha Fox"
+		},
+		{
+			"rank": 88,
+			"title": "She Wants to Dance with Me",
+			"artist": "Rick Astley"
+		},
+		{
+			"rank": 89,
+			"title": "Dreamin'",
+			"artist": "Vanessa Williams"
+		},
+		{
+			"rank": 90,
+			"title": "It's No Crime",
+			"artist": "Babyface"
+		},
+		{
+			"rank": 91,
+			"title": "Poison",
+			"artist": "Alice Cooper"
+		},
+		{
+			"rank": 92,
+			"title": "This Time I Know It's for Real",
+			"artist": "Donna Summer"
+		},
+		{
+			"rank": 93,
+			"title": "Smooth Criminal",
+			"artist": "Michael Jackson"
+		},
+		{
+			"rank": 94,
+			"title": "Heaven Help Me",
+			"artist": "Deon Estus"
+		},
+		{
+			"rank": 95,
+			"title": "Rock Wit'cha",
+			"artist": "Bobby Brown"
+		},
+		{
+			"rank": 96,
+			"title": "Thinking of You",
+			"artist": "Sa-Fire"
+		},
+		{
+			"rank": 97,
+			"title": "What You Don't Know",
+			"artist": "Exposé"
+		},
+		{
+			"rank": 98,
+			"title": "Surrender to Me",
+			"artist": "Ann Wilson and Robin Zander"
+		},
+		{
+			"rank": 99,
+			"title": "The End of the Innocence",
+			"artist": "Don Henley"
+		},
+		{
+			"rank": 100,
+			"title": "Keep on Movin'",
+			"artist": "Soul II Soul"
+		}
+	]
+}

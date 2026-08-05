@@ -1,0 +1,505 @@
+{
+	"year": 1999,
+	"songs": [
+		{
+			"rank": 1,
+			"title": "Believe",
+			"artist": "Cher"
+		},
+		{
+			"rank": 2,
+			"title": "No Scrubs",
+			"artist": "TLC"
+		},
+		{
+			"rank": 3,
+			"title": "Angel of Mine",
+			"artist": "Monica"
+		},
+		{
+			"rank": 4,
+			"title": "Heartbreak Hotel",
+			"artist": "Whitney Houston featuring Faith Evans and Kelly Price"
+		},
+		{
+			"rank": 5,
+			"title": "...Baby One More Time",
+			"artist": "Britney Spears"
+		},
+		{
+			"rank": 6,
+			"title": "Kiss Me",
+			"artist": "Sixpence None the Richer"
+		},
+		{
+			"rank": 7,
+			"title": "Genie in a Bottle",
+			"artist": "Christina Aguilera"
+		},
+		{
+			"rank": 8,
+			"title": "Every Morning",
+			"artist": "Sugar Ray"
+		},
+		{
+			"rank": 9,
+			"title": "Nobody's Supposed to Be Here",
+			"artist": "Deborah Cox"
+		},
+		{
+			"rank": 10,
+			"title": "Livin' la Vida Loca",
+			"artist": "Ricky Martin"
+		},
+		{
+			"rank": 11,
+			"title": "Where My Girls At?",
+			"artist": "702"
+		},
+		{
+			"rank": 12,
+			"title": "If You Had My Love",
+			"artist": "Jennifer Lopez"
+		},
+		{
+			"rank": 13,
+			"title": "Slide",
+			"artist": "Goo Goo Dolls"
+		},
+		{
+			"rank": 14,
+			"title": "Have You Ever?",
+			"artist": "Brandy"
+		},
+		{
+			"rank": 15,
+			"title": "I Want It That Way",
+			"artist": "Backstreet Boys"
+		},
+		{
+			"rank": 16,
+			"title": "I'm Your Angel",
+			"artist": "R. Kelly and Celine Dion"
+		},
+		{
+			"rank": 17,
+			"title": "All Star",
+			"artist": "Smash Mouth"
+		},
+		{
+			"rank": 18,
+			"title": "Angel",
+			"artist": "Sarah McLachlan"
+		},
+		{
+			"rank": 19,
+			"title": "Smooth",
+			"artist": "Santana featuring Rob Thomas"
+		},
+		{
+			"rank": 20,
+			"title": "Unpretty",
+			"artist": "TLC"
+		},
+		{
+			"rank": 21,
+			"title": "Bills, Bills, Bills",
+			"artist": "Destiny's Child"
+		},
+		{
+			"rank": 22,
+			"title": "Save Tonight",
+			"artist": "Eagle-Eye Cherry"
+		},
+		{
+			"rank": 23,
+			"title": "Last Kiss",
+			"artist": "Pearl Jam"
+		},
+		{
+			"rank": 24,
+			"title": "Fortunate",
+			"artist": "Maxwell"
+		},
+		{
+			"rank": 25,
+			"title": "All I Have to Give",
+			"artist": "Backstreet Boys"
+		},
+		{
+			"rank": 26,
+			"title": "Bailamos",
+			"artist": "Enrique Iglesias"
+		},
+		{
+			"rank": 27,
+			"title": "What's It Gonna Be?!",
+			"artist": "Busta Rhymes featuring Janet"
+		},
+		{
+			"rank": 28,
+			"title": "What It's Like",
+			"artist": "Everlast"
+		},
+		{
+			"rank": 29,
+			"title": "Fly Away",
+			"artist": "Lenny Kravitz"
+		},
+		{
+			"rank": 30,
+			"title": "Someday",
+			"artist": "Sugar Ray"
+		},
+		{
+			"rank": 31,
+			"title": "Lately",
+			"artist": "Divine"
+		},
+		{
+			"rank": 32,
+			"title": "That Don't Impress Me Much",
+			"artist": "Shania Twain"
+		},
+		{
+			"rank": 33,
+			"title": "Wild Wild West",
+			"artist": "Will Smith featuring Dru Hill and Kool Moe Dee"
+		},
+		{
+			"rank": 34,
+			"title": "Scar Tissue",
+			"artist": "Red Hot Chili Peppers"
+		},
+		{
+			"rank": 35,
+			"title": "Heartbreaker",
+			"artist": "Mariah Carey featuring Jay-Z"
+		},
+		{
+			"rank": 36,
+			"title": "I Still Believe",
+			"artist": "Mariah Carey"
+		},
+		{
+			"rank": 37,
+			"title": "The Hardest Thing",
+			"artist": "98 Degrees"
+		},
+		{
+			"rank": 38,
+			"title": "Summer Girls",
+			"artist": "LFO"
+		},
+		{
+			"rank": 39,
+			"title": "Can I Get A...",
+			"artist": "Jay-Z featuring Amil and Ja Rule"
+		},
+		{
+			"rank": 40,
+			"title": "Jumper",
+			"artist": "Third Eye Blind"
+		},
+		{
+			"rank": 41,
+			"title": "Doo Wop (That Thing)",
+			"artist": "Lauryn Hill"
+		},
+		{
+			"rank": 42,
+			"title": "Mambo No. 5",
+			"artist": "Lou Bega"
+		},
+		{
+			"rank": 43,
+			"title": "Sweet Lady",
+			"artist": "Tyrese"
+		},
+		{
+			"rank": 44,
+			"title": "It's Not Right but It's Okay",
+			"artist": "Whitney Houston"
+		},
+		{
+			"rank": 45,
+			"title": "(God Must Have Spent) A Little More Time on You",
+			"artist": "NSYNC"
+		},
+		{
+			"rank": 46,
+			"title": "Lullaby",
+			"artist": "Shawn Mullins"
+		},
+		{
+			"rank": 47,
+			"title": "Anywhere",
+			"artist": "112 featuring Lil Zane"
+		},
+		{
+			"rank": 48,
+			"title": "Tell Me It's Real",
+			"artist": "K-Ci & JoJo"
+		},
+		{
+			"rank": 49,
+			"title": "Back 2 Good",
+			"artist": "Matchbox 20"
+		},
+		{
+			"rank": 50,
+			"title": "808",
+			"artist": "Blaque"
+		},
+		{
+			"rank": 51,
+			"title": "She's So High",
+			"artist": "Tal Bachman"
+		},
+		{
+			"rank": 52,
+			"title": "She's All I Ever Had",
+			"artist": "Ricky Martin"
+		},
+		{
+			"rank": 53,
+			"title": "Miami",
+			"artist": "Will Smith"
+		},
+		{
+			"rank": 54,
+			"title": "Hands",
+			"artist": "Jewel"
+		},
+		{
+			"rank": 55,
+			"title": "Who Dat",
+			"artist": "JT Money featuring Solé"
+		},
+		{
+			"rank": 56,
+			"title": "Please Remember Me",
+			"artist": "Tim McGraw"
+		},
+		{
+			"rank": 57,
+			"title": "From This Moment On",
+			"artist": "Shania Twain"
+		},
+		{
+			"rank": 58,
+			"title": "Love Like This",
+			"artist": "Faith Evans"
+		},
+		{
+			"rank": 59,
+			"title": "You",
+			"artist": "Jesse Powell"
+		},
+		{
+			"rank": 60,
+			"title": "Trippin'",
+			"artist": "Total featuring Missy Elliott"
+		},
+		{
+			"rank": 61,
+			"title": "If You",
+			"artist": "Silk"
+		},
+		{
+			"rank": 62,
+			"title": "Ex-Factor",
+			"artist": "Lauryn Hill"
+		},
+		{
+			"rank": 63,
+			"title": "Give It to You",
+			"artist": "Jordan Knight"
+		},
+		{
+			"rank": 64,
+			"title": "Black Balloon",
+			"artist": "Goo Goo Dolls"
+		},
+		{
+			"rank": 65,
+			"title": "Spend My Life with You",
+			"artist": "Eric Benét featuring Tamia"
+		},
+		{
+			"rank": 66,
+			"title": "These Are the Times",
+			"artist": "Dru Hill"
+		},
+		{
+			"rank": 67,
+			"title": "I Don't Want to Miss a Thing",
+			"artist": "Mark Chesnutt"
+		},
+		{
+			"rank": 68,
+			"title": "I Do (Cherish You)",
+			"artist": "98 Degrees"
+		},
+		{
+			"rank": 69,
+			"title": "Because of You",
+			"artist": "98 Degrees"
+		},
+		{
+			"rank": 70,
+			"title": "I Will Remember You",
+			"artist": "Sarah McLachlan"
+		},
+		{
+			"rank": 71,
+			"title": "Chanté's Got a Man",
+			"artist": "Chanté Moore"
+		},
+		{
+			"rank": 72,
+			"title": "Happily Ever After",
+			"artist": "Case"
+		},
+		{
+			"rank": 73,
+			"title": "My Love Is Your Love",
+			"artist": "Whitney Houston"
+		},
+		{
+			"rank": 74,
+			"title": "All Night Long",
+			"artist": "Faith Evans featuring Puff Daddy"
+		},
+		{
+			"rank": 75,
+			"title": "Back That Thang Up",
+			"artist": "Juvenile featuring Mannie Fresh and Lil Wayne"
+		},
+		{
+			"rank": 76,
+			"title": "Almost Doesn't Count",
+			"artist": "Brandy"
+		},
+		{
+			"rank": 77,
+			"title": "Man! I Feel Like a Woman!",
+			"artist": "Shania Twain"
+		},
+		{
+			"rank": 78,
+			"title": "Steal My Sunshine",
+			"artist": "Len"
+		},
+		{
+			"rank": 79,
+			"title": "I Need to Know",
+			"artist": "Marc Anthony"
+		},
+		{
+			"rank": 80,
+			"title": "So Anxious",
+			"artist": "Ginuwine"
+		},
+		{
+			"rank": 81,
+			"title": "Faded Pictures",
+			"artist": "Case featuring Joe"
+		},
+		{
+			"rank": 82,
+			"title": "Back at One",
+			"artist": "Brian McKnight"
+		},
+		{
+			"rank": 83,
+			"title": "When a Woman's Fed Up",
+			"artist": "R. Kelly"
+		},
+		{
+			"rank": 84,
+			"title": "How Forever Feels",
+			"artist": "Kenny Chesney"
+		},
+		{
+			"rank": 85,
+			"title": "Amazed",
+			"artist": "Lonestar"
+		},
+		{
+			"rank": 86,
+			"title": "Sometimes",
+			"artist": "Britney Spears"
+		},
+		{
+			"rank": 87,
+			"title": "Ghetto Cowboy",
+			"artist": "Mo Thugs"
+		},
+		{
+			"rank": 88,
+			"title": "Out of My Head",
+			"artist": "Fastball"
+		},
+		{
+			"rank": 89,
+			"title": "Hard Knock Life (Ghetto Anthem)",
+			"artist": "Jay-Z"
+		},
+		{
+			"rank": 90,
+			"title": "Jamboree",
+			"artist": "Naughty by Nature featuring Zhané"
+		},
+		{
+			"rank": 91,
+			"title": "Take Me There",
+			"artist": "Blackstreet featuring Mýa, Mase and Blinky Blink"
+		},
+		{
+			"rank": 92,
+			"title": "Stay the Same",
+			"artist": "Joey McIntyre"
+		},
+		{
+			"rank": 93,
+			"title": "A Lesson in Leavin'",
+			"artist": "Jo Dee Messina"
+		},
+		{
+			"rank": 94,
+			"title": "Iris",
+			"artist": "Goo Goo Dolls"
+		},
+		{
+			"rank": 95,
+			"title": "Satisfy You",
+			"artist": "Puff Daddy featuring R. Kelly"
+		},
+		{
+			"rank": 96,
+			"title": "Better Days (And the Bottom Drops Out)",
+			"artist": "Citizen King"
+		},
+		{
+			"rank": 97,
+			"title": "Music of My Heart",
+			"artist": "NSYNC and Gloria Estefan"
+		},
+		{
+			"rank": 98,
+			"title": "Write This Down",
+			"artist": "George Strait"
+		},
+		{
+			"rank": 99,
+			"title": "When You Believe",
+			"artist": "Whitney Houston and Mariah Carey"
+		},
+		{
+			"rank": 100,
+			"title": "(God Must Have Spent) A Little More Time on You",
+			"artist": "Alabama and NSYNC"
+		}
+	]
+}

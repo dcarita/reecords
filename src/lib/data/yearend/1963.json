@@ -1,0 +1,505 @@
+{
+	"year": 1963,
+	"songs": [
+		{
+			"rank": 1,
+			"title": "Surfin' U.S.A.",
+			"artist": "The Beach Boys"
+		},
+		{
+			"rank": 2,
+			"title": "The End of the World",
+			"artist": "Skeeter Davis"
+		},
+		{
+			"rank": 3,
+			"title": "Rhythm of the Rain",
+			"artist": "The Cascades"
+		},
+		{
+			"rank": 4,
+			"title": "He's So Fine",
+			"artist": "The Chiffons"
+		},
+		{
+			"rank": 5,
+			"title": "Blue Velvet",
+			"artist": "Bobby Vinton"
+		},
+		{
+			"rank": 6,
+			"title": "Hey Paula",
+			"artist": "Paul & Paula"
+		},
+		{
+			"rank": 7,
+			"title": "Fingertips – Part 2",
+			"artist": "Little Stevie Wonder"
+		},
+		{
+			"rank": 8,
+			"title": "Can't Get Used to Losing You",
+			"artist": "Andy Williams"
+		},
+		{
+			"rank": 9,
+			"title": "My Boyfriend's Back",
+			"artist": "The Angels"
+		},
+		{
+			"rank": 10,
+			"title": "Sukiyaki",
+			"artist": "Kyu Sakamoto"
+		},
+		{
+			"rank": 11,
+			"title": "So Much in Love",
+			"artist": "The Tymes"
+		},
+		{
+			"rank": 12,
+			"title": "Puff, the Magic Dragon",
+			"artist": "Peter, Paul and Mary"
+		},
+		{
+			"rank": 13,
+			"title": "Blowin' in the Wind",
+			"artist": "Peter, Paul and Mary"
+		},
+		{
+			"rank": 14,
+			"title": "Wipe Out",
+			"artist": "The Surfaris"
+		},
+		{
+			"rank": 15,
+			"title": "I Love You Because",
+			"artist": "Al Martino"
+		},
+		{
+			"rank": 16,
+			"title": "Wild Weekend",
+			"artist": "The Rebels"
+		},
+		{
+			"rank": 17,
+			"title": "You're the Reason I'm Living",
+			"artist": "Bobby Darin"
+		},
+		{
+			"rank": 18,
+			"title": "Walk Like a Man",
+			"artist": "The Four Seasons"
+		},
+		{
+			"rank": 19,
+			"title": "Mockingbird",
+			"artist": "Inez and Charlie Foxx"
+		},
+		{
+			"rank": 20,
+			"title": "I Will Follow Him",
+			"artist": "Little Peggy March"
+		},
+		{
+			"rank": 21,
+			"title": "Pipeline",
+			"artist": "The Chantays"
+		},
+		{
+			"rank": 22,
+			"title": "Surf City",
+			"artist": "Jan and Dean"
+		},
+		{
+			"rank": 23,
+			"title": "It's My Party",
+			"artist": "Lesley Gore"
+		},
+		{
+			"rank": 24,
+			"title": "Blame It on the Bossa Nova",
+			"artist": "Eydie Gormé"
+		},
+		{
+			"rank": 25,
+			"title": "You Can't Sit Down",
+			"artist": "The Dovells"
+		},
+		{
+			"rank": 26,
+			"title": "Heat Wave",
+			"artist": "Martha and the Vandellas"
+		},
+		{
+			"rank": 27,
+			"title": "Denise",
+			"artist": "Randy & the Rainbows"
+		},
+		{
+			"rank": 28,
+			"title": "Walk Right In",
+			"artist": "The Rooftop Singers"
+		},
+		{
+			"rank": 29,
+			"title": "If You Wanna Be Happy",
+			"artist": "Jimmy Soul"
+		},
+		{
+			"rank": 30,
+			"title": "If I Had a Hammer",
+			"artist": "Trini Lopez"
+		},
+		{
+			"rank": 31,
+			"title": "Easier Said Than Done",
+			"artist": "The Essex"
+		},
+		{
+			"rank": 32,
+			"title": "Ruby Baby",
+			"artist": "Dion"
+		},
+		{
+			"rank": 33,
+			"title": "Our Day Will Come",
+			"artist": "Ruby & the Romantics"
+		},
+		{
+			"rank": 34,
+			"title": "Hello Stranger",
+			"artist": "Barbara Lewis"
+		},
+		{
+			"rank": 35,
+			"title": "Be My Baby",
+			"artist": "The Ronettes"
+		},
+		{
+			"rank": 36,
+			"title": "South Street",
+			"artist": "The Orlons"
+		},
+		{
+			"rank": 37,
+			"title": "Days of Wine and Roses",
+			"artist": "Henry Mancini"
+		},
+		{
+			"rank": 38,
+			"title": "The Monkey Time",
+			"artist": "Major Lance"
+		},
+		{
+			"rank": 39,
+			"title": "Candy Girl",
+			"artist": "The Four Seasons"
+		},
+		{
+			"rank": 40,
+			"title": "Sugar Shack",
+			"artist": "Jimmy Gilmer and the Fireballs"
+		},
+		{
+			"rank": 41,
+			"title": "Still",
+			"artist": "Bill Anderson"
+		},
+		{
+			"rank": 42,
+			"title": "Blue on Blue",
+			"artist": "Bobby Vinton"
+		},
+		{
+			"rank": 43,
+			"title": "Cry Baby",
+			"artist": "Garnet Mimms & the Enchanters"
+		},
+		{
+			"rank": 44,
+			"title": "Two Faces Have I",
+			"artist": "Lou Christie"
+		},
+		{
+			"rank": 45,
+			"title": "Busted",
+			"artist": "Ray Charles"
+		},
+		{
+			"rank": 46,
+			"title": "Da Doo Ron Ron",
+			"artist": "The Crystals"
+		},
+		{
+			"rank": 47,
+			"title": "Foolish Little Girl",
+			"artist": "The Shirelles"
+		},
+		{
+			"rank": 48,
+			"title": "Memphis",
+			"artist": "Lonnie Mack"
+		},
+		{
+			"rank": 49,
+			"title": "In Dreams",
+			"artist": "Roy Orbison"
+		},
+		{
+			"rank": 50,
+			"title": "More",
+			"artist": "Kai Winding"
+		},
+		{
+			"rank": 51,
+			"title": "I Can't Stay Mad at You",
+			"artist": "Skeeter Davis"
+		},
+		{
+			"rank": 52,
+			"title": "Losing You",
+			"artist": "Brenda Lee"
+		},
+		{
+			"rank": 53,
+			"title": "Mean Woman Blues",
+			"artist": "Roy Orbison"
+		},
+		{
+			"rank": 54,
+			"title": "Our Winter Love",
+			"artist": "Bill Pursell"
+		},
+		{
+			"rank": 55,
+			"title": "I Wanna Be Around",
+			"artist": "Tony Bennett"
+		},
+		{
+			"rank": 56,
+			"title": "You've Really Got a Hold on Me",
+			"artist": "The Miracles"
+		},
+		{
+			"rank": 57,
+			"title": "Sally Go 'Round the Roses",
+			"artist": "The Jaynetts"
+		},
+		{
+			"rank": 58,
+			"title": "(You're the) Devil in Disguise",
+			"artist": "Elvis Presley"
+		},
+		{
+			"rank": 59,
+			"title": "Those Lazy-Hazy-Crazy Days of Summer",
+			"artist": "Nat King Cole"
+		},
+		{
+			"rank": 60,
+			"title": "Baby Workout",
+			"artist": "Jackie Wilson"
+		},
+		{
+			"rank": 61,
+			"title": "Pride and Joy",
+			"artist": "Marvin Gaye"
+		},
+		{
+			"rank": 62,
+			"title": "Deep Purple",
+			"artist": "Nino Tempo & April Stevens"
+		},
+		{
+			"rank": 63,
+			"title": "From a Jack to a King",
+			"artist": "Ned Miller"
+		},
+		{
+			"rank": 64,
+			"title": "Up on the Roof",
+			"artist": "The Drifters"
+		},
+		{
+			"rank": 65,
+			"title": "What Will Mary Say",
+			"artist": "Johnny Mathis"
+		},
+		{
+			"rank": 66,
+			"title": "Mama Didn't Lie",
+			"artist": "Jan Bradley"
+		},
+		{
+			"rank": 67,
+			"title": "The Night Has a Thousand Eyes",
+			"artist": "Bobby Vee"
+		},
+		{
+			"rank": 68,
+			"title": "Don't Say Nothin' Bad (About My Baby)",
+			"artist": "The Cookies"
+		},
+		{
+			"rank": 69,
+			"title": "Ring of Fire",
+			"artist": "Johnny Cash"
+		},
+		{
+			"rank": 70,
+			"title": "Just One Look",
+			"artist": "Doris Troy"
+		},
+		{
+			"rank": 71,
+			"title": "Hello Muddah, Hello Fadduh (A Letter from Camp)",
+			"artist": "Allan Sherman"
+		},
+		{
+			"rank": 72,
+			"title": "Judy's Turn to Cry",
+			"artist": "Lesley Gore"
+		},
+		{
+			"rank": 73,
+			"title": "Tie Me Kangaroo Down, Sport",
+			"artist": "Rolf Harris"
+		},
+		{
+			"rank": 74,
+			"title": "Fools Rush In",
+			"artist": "Rick Nelson"
+		},
+		{
+			"rank": 75,
+			"title": "Washington Square",
+			"artist": "The Village Stompers"
+		},
+		{
+			"rank": 76,
+			"title": "Donna the Prima Donna",
+			"artist": "Dion"
+		},
+		{
+			"rank": 77,
+			"title": "That Sunday, That Summer",
+			"artist": "Nat King Cole"
+		},
+		{
+			"rank": 78,
+			"title": "Another Saturday Night",
+			"artist": "Sam Cooke"
+		},
+		{
+			"rank": 79,
+			"title": "Painted, Tainted Rose",
+			"artist": "Al Martino"
+		},
+		{
+			"rank": 80,
+			"title": "Go Away Little Girl",
+			"artist": "Steve Lawrence"
+		},
+		{
+			"rank": 81,
+			"title": "Take These Chains from My Heart",
+			"artist": "Ray Charles"
+		},
+		{
+			"rank": 82,
+			"title": "Talk to Me",
+			"artist": "Sunny & the Sunglows"
+		},
+		{
+			"rank": 83,
+			"title": "Come and Get These Memories",
+			"artist": "Martha and the Vandellas"
+		},
+		{
+			"rank": 84,
+			"title": "Do the Bird",
+			"artist": "Dee Dee Sharp"
+		},
+		{
+			"rank": 85,
+			"title": "It's All Right",
+			"artist": "The Impressions"
+		},
+		{
+			"rank": 86,
+			"title": "Shut Down",
+			"artist": "The Beach Boys"
+		},
+		{
+			"rank": 87,
+			"title": "One Fine Day",
+			"artist": "The Chiffons"
+		},
+		{
+			"rank": 88,
+			"title": "Little Town Flirt",
+			"artist": "Del Shannon"
+		},
+		{
+			"rank": 89,
+			"title": "Fly Me to the Moon",
+			"artist": "Joe Harnell"
+		},
+		{
+			"rank": 90,
+			"title": "The Reverend Mr. Black",
+			"artist": "The Kingston Trio"
+		},
+		{
+			"rank": 91,
+			"title": "Hot Pastrami",
+			"artist": "The Dartells"
+		},
+		{
+			"rank": 92,
+			"title": "Martian Hop",
+			"artist": "The Ran-Dells"
+		},
+		{
+			"rank": 93,
+			"title": "Wonderful! Wonderful!",
+			"artist": "The Tymes"
+		},
+		{
+			"rank": 94,
+			"title": "Abilene",
+			"artist": "George Hamilton IV"
+		},
+		{
+			"rank": 95,
+			"title": "Part Time Love",
+			"artist": "Little Johnny Taylor"
+		},
+		{
+			"rank": 96,
+			"title": "Maria Elena",
+			"artist": "Los Indios Tabajaras"
+		},
+		{
+			"rank": 97,
+			"title": "Detroit City",
+			"artist": "Bobby Bare"
+		},
+		{
+			"rank": 98,
+			"title": "Twenty Miles",
+			"artist": "Chubby Checker"
+		},
+		{
+			"rank": 99,
+			"title": "Green, Green",
+			"artist": "The New Christy Minstrels"
+		},
+		{
+			"rank": 100,
+			"title": "Hey Girl",
+			"artist": "Freddie Scott |-"
+		}
+	]
+}
