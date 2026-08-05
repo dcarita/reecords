@@ -20,6 +20,13 @@ export interface OnThisDayData {
 	events: OnThisDayEvent[];
 }
 
+// Added by the separate, optional fetch-spotify-enrich.ts script — not present
+// until that's been run, so always optional on ChartEntry.
+export interface SpotifyTrackInfo {
+	albumArtUrl: string | null;
+	spotifyUrl: string;
+}
+
 export interface ChartEntry {
 	song: string;
 	artist: string;
@@ -27,6 +34,7 @@ export interface ChartEntry {
 	last_week: number | null;
 	peak_position: number;
 	weeks_on_chart: number;
+	spotify?: SpotifyTrackInfo;
 }
 
 export interface Chart {

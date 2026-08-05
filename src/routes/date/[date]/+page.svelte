@@ -19,14 +19,28 @@
 	{#if topSong}
 		<section>
 			<h2>#1 song that week</h2>
-			<p class="song">
-				<strong>{topSong.song}</strong> by {topSong.artist}
-			</p>
-			<p class="note">
-				Billboard Hot 100 for the week of {data.chart.chartDate}
-				{#if data.chart.chartDate !== data.date}
-					(nearest chart to your exact date — Billboard publishes weekly, not daily){/if}
-			</p>
+			<div class="song-row">
+				{#if topSong.spotify?.albumArtUrl}
+					<img class="album-art" src={topSong.spotify.albumArtUrl} alt="{topSong.song} album art" />
+				{/if}
+				<div>
+					<p class="song">
+						{#if topSong.spotify}
+							<a href={topSong.spotify.spotifyUrl} target="_blank" rel="external noreferrer">
+								<strong>{topSong.song}</strong>
+							</a>
+						{:else}
+							<strong>{topSong.song}</strong>
+						{/if}
+						by {topSong.artist}
+					</p>
+					<p class="note">
+						Billboard Hot 100 for the week of {data.chart.chartDate}
+						{#if data.chart.chartDate !== data.date}
+							(nearest chart to your exact date — Billboard publishes weekly, not daily){/if}
+					</p>
+				</div>
+			</div>
 		</section>
 	{/if}
 
@@ -91,8 +105,29 @@
 		margin-bottom: var(--space-4);
 	}
 
+	.song-row {
+		display: flex;
+		align-items: center;
+		gap: var(--space-4);
+	}
+
+	.album-art {
+		width: 72px;
+		height: 72px;
+		border-radius: var(--radius-sm);
+		flex-shrink: 0;
+	}
+
 	.song {
 		font-size: 1.25rem;
+
+		a {
+			text-decoration: none;
+
+			&:hover {
+				text-decoration: underline;
+			}
+		}
 	}
 
 	.note {

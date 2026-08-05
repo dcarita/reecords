@@ -15,7 +15,8 @@
 		"format": "prettier --write .",
 		"fetch:onthisday": "tsx scripts/fetch-onthisday.ts",
 		"fetch:billboard": "tsx scripts/fetch-billboard.ts",
-		"fetch:data": "pnpm fetch:onthisday && pnpm fetch:billboard"
+		"fetch:data": "pnpm fetch:onthisday && pnpm fetch:billboard",
+		"fetch:enrich": "tsx --env-file-if-exists=.env scripts/fetch-spotify-enrich.ts"
 	},
 	"devDependencies": {
 		"@eslint/js": "^10.0.1",
