@@ -1,0 +1,107 @@
+{
+	"month": 10,
+	"day": 24,
+	"musicians": [
+		{
+			"name": "Drake",
+			"birthYear": 1986,
+			"wikidataId": "Q33240"
+		},
+		{
+			"name": "Kevin Kline",
+			"birthYear": 1947,
+			"wikidataId": "Q105817"
+		},
+		{
+			"name": "Sofia Gubaidulina",
+			"birthYear": 1931,
+			"wikidataId": "Q165668"
+		},
+		{
+			"name": "Alexandra David-Néel",
+			"birthYear": 1868,
+			"wikidataId": "Q230456"
+		},
+		{
+			"name": "Luciano Berio",
+			"birthYear": 1925,
+			"wikidataId": "Q221450"
+		},
+		{
+			"name": "Gilbert Bécaud",
+			"birthYear": 1927,
+			"wikidataId": "Q160433"
+		},
+		{
+			"name": "Emmerich Kálmán",
+			"birthYear": 1882,
+			"wikidataId": "Q153818"
+		},
+		{
+			"name": "Bill Wyman",
+			"birthYear": 1936,
+			"wikidataId": "Q312559"
+		},
+		{
+			"name": "Raye",
+			"birthYear": 1997,
+			"wikidataId": "Q28071144"
+		},
+		{
+			"name": "Jean-Claude Pascal",
+			"birthYear": 1927,
+			"wikidataId": "Q312262"
+		},
+		{
+			"name": "BD Wong",
+			"birthYear": 1960,
+			"wikidataId": "Q359207"
+		},
+		{
+			"name": "Tito Gobbi",
+			"birthYear": 1913,
+			"wikidataId": "Q363254"
+		},
+		{
+			"name": "Krystal Jung",
+			"birthYear": 1994,
+			"wikidataId": "Q464623"
+		},
+		{
+			"name": "Serhat",
+			"birthYear": 1964,
+			"wikidataId": "Q21998497"
+		},
+		{
+			"name": "Tila Tequila",
+			"birthYear": 1981,
+			"wikidataId": "Q233295"
+		},
+		{
+			"name": "Monica",
+			"birthYear": 1980,
+			"wikidataId": "Q231487"
+		},
+		{
+			"name": "Daya",
+			"birthYear": 1998,
+			"wikidataId": "Q21005558"
+		},
+		{
+			"name": "Ferdinand Hiller",
+			"birthYear": 1811,
+			"wikidataId": "Q213530"
+		},
+		{
+			"name": "Duchess Anna Amalia of Brunswick-Wolfenbüttel",
+			"birthYear": 1739,
+			"wikidataId": "Q241250"
+		},
+		{
+			"name": "George Crumb",
+			"birthYear": 1929,
+			"wikidataId": "Q356804"
+		}
+	],
+	"events": []
+}

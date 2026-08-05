@@ -1,0 +1,107 @@
+{
+	"month": 7,
+	"day": 29,
+	"musicians": [
+		{
+			"name": "Mikis Theodorakis",
+			"birthYear": 1925,
+			"wikidataId": "Q151976"
+		},
+		{
+			"name": "Sanjay Dutt",
+			"birthYear": 1959,
+			"wikidataId": "Q310867"
+		},
+		{
+			"name": "Geddy Lee",
+			"birthYear": 1953,
+			"wikidataId": "Q320895"
+		},
+		{
+			"name": "Boris Asafyev",
+			"birthYear": 1884,
+			"wikidataId": "Q325032"
+		},
+		{
+			"name": "Martina McBride",
+			"birthYear": 1966,
+			"wikidataId": "Q256732"
+		},
+		{
+			"name": "Carl Cox",
+			"birthYear": 1962,
+			"wikidataId": "Q319719"
+		},
+		{
+			"name": "Richard Steven Horvitz",
+			"birthYear": 1966,
+			"wikidataId": "Q4036"
+		},
+		{
+			"name": "Charlie Christian",
+			"birthYear": 1916,
+			"wikidataId": "Q356490"
+		},
+		{
+			"name": "Danger Mouse",
+			"birthYear": 1977,
+			"wikidataId": "Q322915"
+		},
+		{
+			"name": "Peter Schreier",
+			"birthYear": 1935,
+			"wikidataId": "Q57981"
+		},
+		{
+			"name": "Igor Krutoy",
+			"birthYear": 1954,
+			"wikidataId": "Q2631745"
+		},
+		{
+			"name": "John Sykes",
+			"birthYear": 1959,
+			"wikidataId": "Q431060"
+		},
+		{
+			"name": "Lisa Ekdahl",
+			"birthYear": 1971,
+			"wikidataId": "Q64164"
+		},
+		{
+			"name": "Rodney Jerkins",
+			"birthYear": 1977,
+			"wikidataId": "Q727151"
+		},
+		{
+			"name": "Sigmund Romberg",
+			"birthYear": 1887,
+			"wikidataId": "Q742945"
+		},
+		{
+			"name": "Mike Garson",
+			"birthYear": 1945,
+			"wikidataId": "Q2292408"
+		},
+		{
+			"name": "Ulrich Tukur",
+			"birthYear": 1957,
+			"wikidataId": "Q697129"
+		},
+		{
+			"name": "Patti Scialfa",
+			"birthYear": 1953,
+			"wikidataId": "Q257083"
+		},
+		{
+			"name": "Ján Cikker",
+			"birthYear": 1911,
+			"wikidataId": "Q692171"
+		},
+		{
+			"name": "Gale Page",
+			"birthYear": 1913,
+			"wikidataId": "Q460796"
+		}
+	],
+	"events": []
+}

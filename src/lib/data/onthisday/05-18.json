@@ -1,0 +1,107 @@
+{
+	"month": 5,
+	"day": 18,
+	"musicians": [
+		{
+			"name": "Chow Yun-fat",
+			"birthYear": 1955,
+			"wikidataId": "Q181425"
+		},
+		{
+			"name": "Perry Como",
+			"birthYear": 1912,
+			"wikidataId": "Q333405"
+		},
+		{
+			"name": "Yannick Noah",
+			"birthYear": 1960,
+			"wikidataId": "Q221908"
+		},
+		{
+			"name": "Boris Christoff",
+			"birthYear": 1914,
+			"wikidataId": "Q362106"
+		},
+		{
+			"name": "Boris Christoff",
+			"birthYear": 1918,
+			"wikidataId": "Q362106"
+		},
+		{
+			"name": "Sandra",
+			"birthYear": 1962,
+			"wikidataId": "Q76901"
+		},
+		{
+			"name": "Charles Trenet",
+			"birthYear": 1913,
+			"wikidataId": "Q212549"
+		},
+		{
+			"name": "Jack Johnson",
+			"birthYear": 1975,
+			"wikidataId": "Q297097"
+		},
+		{
+			"name": "George Strait",
+			"birthYear": 1952,
+			"wikidataId": "Q366584"
+		},
+		{
+			"name": "Lusiana Lopilato",
+			"birthYear": 1987,
+			"wikidataId": "Q234939"
+		},
+		{
+			"name": "Francesco Maria Piave",
+			"birthYear": 1810,
+			"wikidataId": "Q334205"
+		},
+		{
+			"name": "Rick Wakeman",
+			"birthYear": 1949,
+			"wikidataId": "Q312053"
+		},
+		{
+			"name": "Michael Cretu",
+			"birthYear": 1957,
+			"wikidataId": "Q77006"
+		},
+		{
+			"name": "Alekseev",
+			"birthYear": 1993,
+			"wikidataId": "Q22979243"
+		},
+		{
+			"name": "Luke Black",
+			"birthYear": 1992,
+			"wikidataId": "Q19590738"
+		},
+		{
+			"name": "Ali Zafar",
+			"birthYear": 1980,
+			"wikidataId": "Q3633203"
+		},
+		{
+			"name": "Robert Morse",
+			"birthYear": 1931,
+			"wikidataId": "Q218122"
+		},
+		{
+			"name": "Karl Goldmark",
+			"birthYear": 1830,
+			"wikidataId": "Q239214"
+		},
+		{
+			"name": "Spencer Breslin",
+			"birthYear": 1992,
+			"wikidataId": "Q251984"
+		},
+		{
+			"name": "Big Joe Turner",
+			"birthYear": 1911,
+			"wikidataId": "Q358350"
+		}
+	],
+	"events": []
+}

@@ -1,0 +1,116 @@
+{
+	"month": 7,
+	"day": 13,
+	"musicians": [
+		{
+			"name": "Patrick Stewart",
+			"birthYear": 1940,
+			"wikidataId": "Q16296"
+		},
+		{
+			"name": "Ferdinand III, Holy Roman Emperor",
+			"birthYear": 1608,
+			"wikidataId": "Q150575"
+		},
+		{
+			"name": "Sezen Aksu",
+			"birthYear": 1954,
+			"wikidataId": "Q298139"
+		},
+		{
+			"name": "Tom Kenny",
+			"birthYear": 1962,
+			"wikidataId": "Q299282"
+		},
+		{
+			"name": "Robert Forster",
+			"birthYear": 1941,
+			"wikidataId": "Q367155"
+		},
+		{
+			"name": "Colton Haynes",
+			"birthYear": 1986,
+			"wikidataId": "Q932975"
+		},
+		{
+			"name": "Eva Rivas",
+			"birthYear": 1987,
+			"wikidataId": "Q235880"
+		},
+		{
+			"name": "MF DOOM",
+			"birthYear": 1971,
+			"wikidataId": "Q304675"
+		},
+		{
+			"name": "Benny Benassi",
+			"birthYear": 1967,
+			"wikidataId": "Q311842"
+		},
+		{
+			"name": "Myroslav Skoryk",
+			"birthYear": 1938,
+			"wikidataId": "Q278813"
+		},
+		{
+			"name": "Albert Ayler",
+			"birthYear": 1936,
+			"wikidataId": "Q457125"
+		},
+		{
+			"name": "Tulisa Contostavlos",
+			"birthYear": 1988,
+			"wikidataId": "Q292993"
+		},
+		{
+			"name": "Naomi Shemer",
+			"birthYear": 1930,
+			"wikidataId": "Q238719"
+		},
+		{
+			"name": "Per Norgård",
+			"birthYear": 1932,
+			"wikidataId": "Q434392"
+		},
+		{
+			"name": "Ulrikke Brandstorp",
+			"birthYear": 1995,
+			"wikidataId": "Q81293738"
+		},
+		{
+			"name": "Fréhel",
+			"birthYear": 1891,
+			"wikidataId": "Q253990"
+		},
+		{
+			"name": "Jacobus Gallus",
+			"birthYear": 1550,
+			"wikidataId": "Q439813"
+		},
+		{
+			"name": "Roger McGuinn",
+			"birthYear": 1942,
+			"wikidataId": "Q449140"
+		},
+		{
+			"name": "Carlo Bergonzi",
+			"birthYear": 1924,
+			"wikidataId": "Q446670"
+		},
+		{
+			"name": "Sayumi Michishige",
+			"birthYear": 1989,
+			"wikidataId": "Q234063"
+		}
+	],
+	"events": [
+		{
+			"year": 2008,
+			"text": "Battle of Wanat begins when Taliban and al-Qaeda guerrillas attack US Army and Afghan National Army troops in Afghanistan. The U.S. deaths were, at that time, the most in a single battle since the beginning of operations in 2001."
+		},
+		{
+			"year": 1985,
+			"text": "The Live Aid benefit concert takes place in London and Philadelphia, as well as other venues such as Moscow and Sydney."
+		}
+	]
+}
